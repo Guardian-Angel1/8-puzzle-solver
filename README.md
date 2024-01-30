@@ -1,1 +1,1 @@
-# N-puzzle-solver
+# 8-puzzle-solver using A* Algorithm
